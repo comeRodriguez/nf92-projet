@@ -1,0 +1,19 @@
+body {
+	color: black;
+	font: 18px Verdana;
+	
+
+}
+h1 {
+	color: white;
+    font: 40px Verdana;
+    text-decoration-color: white; 
+    font-weight: bold; 
+    background-color: black;
+    text-align: center;
+}
+h2 {
+	margin-top: 1em;
+	padding-top: 1em;
+	border-top: thin dotted;
+	}
